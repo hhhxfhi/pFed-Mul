@@ -1,0 +1,2 @@
+Final Testing: avg_mse=0.6965, avg_acc=nan
+Epoch-wise metrics saved to: /autodl-fs/data/task_diversity_BFL-master/result/dogcat_20250603-221420_epoch_metrics.csv
