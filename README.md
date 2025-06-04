@@ -8,7 +8,7 @@
 ## 数据集准备
 本项目一共训练了两个数据集：CelebA和Dogcat。数据集可以在“./data”文件夹下对应的文件中找到下载链接，下载后的数据集文件结构如下：
 ### ·CelebA
-./data/celeba/
+>./data/celeba/
 ├── Anno/
 └── image/
 ### ·Dogcat
