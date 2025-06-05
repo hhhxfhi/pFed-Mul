@@ -9,7 +9,7 @@ conda env create -f environment.yml -n myenv
 ```
 
 ## 数据集准备
-本项目一共训练了两个数据集：CelebA和Dogcat。数据集可以在“./data”文件夹下对应的文件中找到下载链接，下载后的数据集文件结构如下：
+本项目一共训练了两个数据集：CelebA和Dogcat。由于数据集太大，所以数据集可以在“./data”文件夹下对应的文件中找到下载链接，下载后的数据集文件结构如下：
 ### ·CelebA
 ```
 ./data/celeba/
